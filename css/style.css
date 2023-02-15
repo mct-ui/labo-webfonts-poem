@@ -1,0 +1,43 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {    
+    /* give a minimum height of 100vh */
+    /* Give some whitespace to the inside */
+
+    /* Align everyting to the center with grid and set some whitespace */
+
+    /* Set the font family to bookmania */
+    /* Set the font size so that it's twice the root font size */
+    /* Set the font weight to Light */
+    /* Make sure the text has Ligatures, Discretionary ligiatures, stylistic set 04, 08 & 10 enabled */
+
+    /* Set the line height to something higher than 1 */
+    /* Set the background to oldlace */
+}
+
+/* Set the H1 to italics and make sure all first letters start with a capital */
+
+h1 {
+
+}
+
+/* Use specific classes to specify certain stylistic alternates */
+/* Use them on charactes you want to change with a span tag around the letter  */
+
+.salt1 {
+    font-feature-settings: "salt" 1;
+}
+
+/* Set the footer to small caps and all uppercases to small caps */
+
+footer {
+    
+} 
