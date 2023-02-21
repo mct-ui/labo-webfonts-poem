@@ -6,7 +6,11 @@ html {
 *:before,
 *:after {
     box-sizing: inherit;
+    /* remove the margin from all elements */
+
 }
+
+/* add margin-top to all elements only if they are preceded by a sibling element */
 
 body {
     /* give a minimum height of 100vh */
