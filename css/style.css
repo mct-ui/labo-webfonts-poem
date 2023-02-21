@@ -25,6 +25,10 @@ body {
 
     /* Set the line height to something higher than 1 */
     /* Set the background to oldlace */
+
+    /* anti-aliasing */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 /* Set the H1 to italics and make sure all first letters start with a capital */
